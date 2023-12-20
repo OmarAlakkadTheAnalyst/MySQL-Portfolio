@@ -1,0 +1,4 @@
+-- This project is for a Readymade clothing company (Santamaria Fashion)
+-- With this project and creation of database for this company
+-- I proivde a really good solution instead of using spreadsheets 
+-- It will be more orginized, and database users would be able to do analysis
